@@ -1,0 +1,28 @@
+/** @format */
+
+.auth-form {
+	min-width: 320px;
+	max-width: 650px;
+	margin: auto;
+	background-color: #fff;
+	padding: 2rem;
+	padding-right: 3rem;
+	border-radius: 3px;
+	box-shadow: 0 2px 2px 1px rgba(250, 250, 250, 0.2);
+}
+@media (max-width: 500px) {
+	.auth-form {
+		padding: 0.5rem;
+		width: 400px;
+	}
+	.auth-form input {
+		width: 95%;
+	}
+}
+
+@media (max-width: 375px) {
+	.auth-form {
+		padding: 0.3rem;
+		width: 350px;
+	}
+}

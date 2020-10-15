@@ -1,0 +1,9 @@
+{
+	"env": {
+		"DB_USER": "tutrandeptrai",
+		"DB_PASSWORD": "2DSiMtmzMZ9QPgjO",
+		"DB_NAME": "shareplaces",
+		"GOOGLE_MAP_API_KEY": "AIzaSyB3fJjEkVNKgmjdj8R72cdHcvnHBJNJPZM",
+		"JWT_SECRET": "vi34878tywo493tgynaonwertuafweg90347g9bnsy4ogv8973498ty348vny8"
+	}
+}
